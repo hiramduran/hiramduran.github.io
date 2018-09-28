@@ -19,21 +19,15 @@ article {
  float: center; width: 89%;
 }
 
-h2 {
+h2, h3 {
  text-align: center;
 }
 
-h3 {
- text-align: center;
+h4, p {
+ text-align: left;
+ padding: 0px 5px 5px 80px; /* Rule of TRBLE Top Right Bottom Left */
 }
 
-h4 {
-text-align: center;
-}
-
-p {
- text-align: center;
-}
 
 footer {
   text-align: center;
