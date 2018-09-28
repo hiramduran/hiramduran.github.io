@@ -1,0 +1,40 @@
+/*beginning of CSS file*/
+body {
+ background-color: whitesmoke; width: 60%; margin: 0 auto;
+}
+
+header {
+ text-align: center; 
+} 
+
+section {
+ clear: both; border-style: solid; border-width: 1px; border-color: lightgrey;
+}
+
+img {
+ float: left; width: 10%; padding-top: 10px;
+}
+
+article {
+ float: center; width: 89%;
+}
+
+h2 {
+ text-align: center;
+}
+
+h3 {
+ text-align: center;
+}
+
+h4 {
+text-align: center;
+}
+
+p {
+ text-align: center;
+}
+
+footer {
+  text-align: center;
+}
